@@ -43,7 +43,7 @@ section{
     align-items: center;
 }
 #home{
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../img/bck2.jpeg);
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../img/logo3.jpg );
     background-size: cover;
     background-position: center;
     flex-direction: column;
