@@ -43,7 +43,7 @@ section{
     align-items: center;
 }
 #home{
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../img/logo3.jpg );
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../img/backgronud.webp);
     background-size: cover;
     background-position: center;
     flex-direction: column;
@@ -86,6 +86,9 @@ section{
 }
 #about p{
     color: #fff;
+}
+#about img{
+    padding: 48px;
 }
 #product{
     background: #e5e5e5;
